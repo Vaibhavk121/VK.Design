@@ -10,8 +10,7 @@ export default function Contact() {
         <div>
           <h2 className="text-3xl md:text-4xl font-extrabold">Ready to get started?</h2>
           <p className="mt-3 text-gray-600">
-            Drop a message and we’ll get back within 24 hours. This form is a demo—plug in your API
-            or email service to make it live.
+            Drop a message and we’ll get back within 24 hours.
           </p>
         </div>
 
