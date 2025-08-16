@@ -30,7 +30,7 @@ export default function Contact() {
           <input
             type="email"
             className="mt-1 w-full rounded-lg border px-3 py-2 focus:ring-2 focus:ring-blue-400 outline-none"
-            placeholder="you@example.com"
+            placeholder="Your Email"
             required
           />
 

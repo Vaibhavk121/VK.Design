@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section id="home" className="bg-gradient-to-b from-white to-gray-50">
-      <div className="max-w-7xl mx-auto px-4 py-20 grid md:grid-cols-2 gap-10 items-center">
+      <div className="max-w-7xl mx-auto px-4 py-5 grid md:grid-cols-2 gap-10 items-center">
         <div>
           <p className="text-sm font-medium text-blue-600">New • Lightning fast</p>
           <h1 className="mt-3 text-4xl md:text-5xl font-extrabold leading-tight">
